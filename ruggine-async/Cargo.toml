@@ -22,7 +22,7 @@ tokio-timer = {version = "0.2.10", optional = true}
 failure = "0.1.5"
 
 [dev-dependencies]
-version-sync = "0.7.0"
+version-sync = "0.8.0"
 criterion = "0.2.10"
 proptest = "0.9.1"
 pretty_assertions = "0.6.1"

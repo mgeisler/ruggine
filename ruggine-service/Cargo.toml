@@ -18,7 +18,7 @@ failure = "0.1.5"
 serde = { version = "1.0", optional = true, features = ["derive"] }
 
 [dev-dependencies]
-version-sync = "0.7.0"
+version-sync = "0.8.0"
 criterion = "0.2.10"
 cucumber_rust = "0.5.1"
 fail = "0.2.1"
